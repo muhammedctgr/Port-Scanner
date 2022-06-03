@@ -1,4 +1,4 @@
-### This is part FCC Information Security Projects
+### This is part of FCC Information Security Projects
 ### Port Scanner
 
 [![Run on Repl.it](https://repl.it/badge/github/muhammedctgr/port-scanner)](https://repl.it/github/muhammedctgr/port-scanner)
