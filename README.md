@@ -1,7 +1,7 @@
 ### This is part FCC Information Security Projects
 ### Port Scanner
 
-[![Run on Repl.it]([https://repl.it/badge/github/pinglu85/fcc-port-scanner)](https://repl.it/github/pinglu85/fcc-port-scanner](https://replit.com/@6ix-Ville/boilerplate-port-scanner))
+[![Run on Repl.it]([https://replit.com/@6ix-Ville/boilerplate-port-scanner])
 
 In the `port_scanner.py` file, I created a function called `get_open_ports` that takes a `target` argument and a `port_range` argument. `target` can be a URL or IP address. `port_range` is a list of two numbers indicating the first and last numbers of the range of ports to check.
 
